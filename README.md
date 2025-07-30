@@ -12,9 +12,17 @@ This is a full-featured **E-commerce web application** built using **React**, **
 
 > Add the screenshots below in a `/screenshots` folder or directly paste image URLs.
 
-![Home Page](screenshots/homepage.png)
-![Admin Panel](screenshots/admin-dashboard.png)
-![Login](screenshots/login.png)
+<img width="1365" height="631" alt="image" src="https://github.com/user-attachments/assets/e842feb0-44ef-43f3-9f18-278bd870524d" />
+
+
+<img width="1365" height="679" alt="image" src="https://github.com/user-attachments/assets/dbdc6569-4b1c-4741-8d34-d81870c23cac" />
+
+
+<img width="1364" height="675" alt="image" src="https://github.com/user-attachments/assets/a795e4a9-b007-4b84-b110-c89ccfb6934c" />
+
+
+<img width="1365" height="680" alt="image" src="https://github.com/user-attachments/assets/a3c71571-a16b-4c87-b4de-88baff6527e1" />
+
 
 ---
 
@@ -146,17 +154,7 @@ Pull requests are welcome. For major changes, please open an issue first to disc
 
 ---
 
-## ScreenShots
-<img width="1365" height="631" alt="image" src="https://github.com/user-attachments/assets/e842feb0-44ef-43f3-9f18-278bd870524d" />
 
-
-<img width="1365" height="679" alt="image" src="https://github.com/user-attachments/assets/dbdc6569-4b1c-4741-8d34-d81870c23cac" />
-
-
-<img width="1364" height="675" alt="image" src="https://github.com/user-attachments/assets/a795e4a9-b007-4b84-b110-c89ccfb6934c" />
-
-
-<img width="1365" height="680" alt="image" src="https://github.com/user-attachments/assets/a3c71571-a16b-4c87-b4de-88baff6527e1" />
 
 
 
